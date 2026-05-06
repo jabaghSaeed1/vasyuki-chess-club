@@ -89,7 +89,7 @@ h1, h2, h3 { font-family: var(--font-heading); font-weight: 400; }
 
 /* TABLE REDESIGN */
 .info-table { width: 100%; border-collapse: collapse; margin-bottom: 20px; font-size: 18px; }
-.info-table strike { text-decoration: line-through; text-decoration-color: var(--accent-red); text-decoration-thickness: 2px; color: var(--text-color); }
+.info-table strike { text-decoration: line-through; text-decoration-color: var(--accent-red); text-decoration-thickness: 2px; color: var(--text-color); font-weight: 700; }
 .info-table td { padding: 15px 0; border-bottom: 1px solid var(--table-line); }
 .info-table td:first-child { color: #595959; }
 .info-table td:last-child { text-align: left; }
